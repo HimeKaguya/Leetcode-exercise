@@ -1,0 +1,5 @@
+﻿  30.cpp
+D:\YYL\CPP\Leetcode\2020-07\30\30.cpp(11,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\YYL\CPP\Leetcode\2020-07\30\30.cpp(12,59): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\YYL\CPP\Leetcode\2020-07\30\30.cpp(13,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  30.vcxproj -> D:\YYL\CPP\Leetcode\2020-07\x64\Debug\30.exe

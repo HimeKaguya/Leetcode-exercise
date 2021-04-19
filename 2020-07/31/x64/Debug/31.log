@@ -1,0 +1,3 @@
+﻿  31.cpp
+D:\YYL\CPP\Leetcode\2020-07\31\31.cpp(10,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  31.vcxproj -> D:\YYL\CPP\Leetcode\2020-07\x64\Debug\31.exe

@@ -1,0 +1,15 @@
+﻿  25.cpp
+D:\YYL\CPP\Leetcode\2020-07\25\25.cpp(11,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\YYL\CPP\Leetcode\2020-07\25\25.cpp(16,70): warning C4244: “参数”: 从“double”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+D:\YYL\CPP\Leetcode\2020-07\25\25.cpp(25,23): warning C4244: “return”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=__int64
+          ]
+D:\YYL\CPP\Leetcode\2020-07\25\25.cpp(55,26): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\YYL\CPP\Leetcode\2020-07\25\25.cpp(63,16): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  25.vcxproj -> D:\YYL\CPP\Leetcode\2020-07\x64\Debug\25.exe
